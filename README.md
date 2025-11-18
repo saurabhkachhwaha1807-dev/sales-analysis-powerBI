@@ -44,3 +44,11 @@ Renaming the original column to 'City_Old'.
 
   ### Dashboard :
   [view screenshot](https://github.com/saurabhkachhwaha1807-dev/sales-analysis-powerBI/blob/main/Screenshot%202025-11-18%20180500.png)
+
+ ### Final Output and Conclusions
+
+* Reporting: Create analysis reports on total revenue, quantity, cancellations, and customer counts.
+
+* Dimensional Cuts: Slice metrics by Month, week, weekday, product group, city, zone, and city tier.
+
+* Dashboard: Conclude the exercise by creating a final dashboard from the analysis.
