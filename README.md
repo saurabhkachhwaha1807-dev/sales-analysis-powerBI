@@ -7,6 +7,9 @@ This exercise focuses on data preparation, transformation, and visualization usi
 **Objective:** Load data from multiple sources, define and manage relationships, and enhance the dataset using DAX syntax to prepare for dashboard creation.
 Data Source: Retail data provided in 4 separate files.
 
+### Case study quetions (pdf)
+[open PDF](https://github.com/saurabhkachhwaha1807-dev/sales-analysis-powerBI/blob/main/Power%20BI%20Basic%20Exercise.pdf)
+
 ### 🛠️ Required Tasks
 
 **Data Loading and Cleaning** 
