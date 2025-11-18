@@ -2,12 +2,12 @@
 
 This exercise focuses on data preparation, transformation, and visualization using Power BI and DAX. The business context involves managing and relating multiple tables of retail data from four disparate files to eventually create a high-level dashboard
 
-#### 🎯 Objective and Context
+### 🎯 Objective and Context
 
 **Objective:** Load data from multiple sources, define and manage relationships, and enhance the dataset using DAX syntax to prepare for dashboard creation.
 Data Source: Retail data provided in 4 separate files.
 
-#### 🛠️ Required Tasks
+### 🛠️ Required Tasks
 
 **Data Loading and Cleaning** 
 
