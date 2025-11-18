@@ -41,3 +41,6 @@ Renaming the original column to 'City_Old'.
 **Time Intelligence:** Two new fields were created to enable time-based analysis:
 * 'OrderDayOfWeek': Provided the full name of the day of the week (e.g., 'Monday').
 * 'OrderWeekStart': Calculated the date of the start of the week (starting Monday) and was formatted to display concisely (e.g., 'Nov 06').
+
+  ### Dashboard :
+  [view screenshot](https://github.com/saurabhkachhwaha1807-dev/sales-analysis-powerBI/blob/main/Screenshot%202025-11-18%20180500.png)
