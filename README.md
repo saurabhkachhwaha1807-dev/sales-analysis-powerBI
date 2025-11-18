@@ -1,3 +1,5 @@
+# Sales Analysis
+
 This exercise focuses on data preparation, transformation, and visualization using Power BI and DAX. The business context involves managing and relating multiple tables of retail data from four disparate files to eventually create a high-level dashboard
 
 #### 🎯 Objective and Context
@@ -27,12 +29,12 @@ Data Source: Retail data provided in 4 separate files.
 * Records in 'PinCode-Geo' with missing 'Zone' values were dropped.
 * Records in 'Mod3_Raw_CityTier_v0 1' with missing 'CityTier' values were dropped.
 
-**Relationship Management:** * Relationships were established for common columns across tables, critically connecting the 'City' field between 'Mod3_Raw_CityTier_v0 1' and 'PinCode-Geo', and finally updating all relationships to ensure a fully connected model.
+**Relationship Management:**  Relationships were established for common columns across tables, critically connecting the 'City' field between 'Mod3_Raw_CityTier_v0 1' and 'PinCode-Geo', and finally updating all relationships to ensure a fully connected model.
 * The subsequent phase focused on Data Enhancement and Transformation using DAX:
 
 **Metric Calculation:** A core measure, 'Net_Units', was created in the sale table by calculating the difference between 'Units' and 'Cancelled Units'.
 
-**Geographical Standardization:** * The 'City' field in two files ('Mod3_Raw_CityTier_v0 1' and 'PinCode-Geo') was standardized by
+**Geographical Standardization:**  The 'City' field in two files ('Mod3_Raw_CityTier_v0 1' and 'PinCode-Geo') was standardized by
 Renaming the original column to 'City_Old'.
 * Creating a new column named 'City' containing only the city name, with the country part removed.
 
